@@ -1,0 +1,5 @@
+.DS_Store
+/**/xcshareddata/
+/**/xcuserdata/
+/Pods/
+Podfile.lock
